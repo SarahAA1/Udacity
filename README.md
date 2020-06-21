@@ -1,9 +1,17 @@
 # Project2_Udacity
 
-
-I'm Sarah Alharbi, Recently I'm studying Data Analyst Nanodegree. 
-
-This is the second project in DAND
+This project was a requirment part in Data Analyst Nanodegree- Udacity
+I used TMDb Movie Dataset, it contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. There are 21 columns such as(original title, cast, tagline, etc..)
 All dataset I had used was given by Udacity.com
 
-Thank you!
+
+## Question that can analyised from this dataset
+  Average duration of the movie
+  Average runtime of movies from year to year
+  Correlation between revenue and budget
+  Which year has the highest release of movies? 
+
+
+## Tool 
+  Python 
+
